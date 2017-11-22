@@ -1,0 +1,42 @@
+{
+    "workshop": {
+        "title": "Cloud Accelerate: Oracle API & Integration Day - Hands On Lab",
+        "description": "A hands-on event to explore Oracle’s API Platform and Integration Cloud Services.",
+        "labs": [{
+                "number": "1",
+                "filename": "Home.md",
+                "title": "Home",
+                "description": "Welcome to the APIPCS and ICS workshop"
+            },{
+                "number": "10",
+                "filename": "StudentGuide.md",
+                "title": "Prerequisites",
+                "description": "Workshop guidance and prerequisites"
+            },
+            {
+                "number": "100",
+                "filename": "ics100.md",
+                "title": "Lab 100: Simple API Development",
+                "description": "In this Lab we are going to develop a simple HelloWorld API using ICS. Lab will give you an overview of some of the ICS features that can be used to create API's."
+            },
+            {
+                "number": "200",
+                "filename": "ics200.md",
+                "title": "Lab 200: API Implementation",
+                "description": "In this Lab we are going to implement the API so that we can manage and secure the simple API created in Lab 100."
+            },
+            {
+                "number": "300",
+                "filename": "ics300.md",
+                "title": "Lab 300: API Policies",
+                "description": "In this Lab we are going to apply policies to govern the API we created in Lab 200."
+            },
+            {
+                "number": "400",
+                "filename": "ics400.md",
+                "title": "Lab 400: API Analytics",
+                "description": "In this Lab we are explore the analytics collected by the API Platform."
+            }
+        ]
+    }
+}
