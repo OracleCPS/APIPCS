@@ -34,8 +34,14 @@
             {
                 "number": "400",
                 "filename": "ics400.md",
-                "title": "Lab 400: API Analytics",
-                "description": "In this Lab we are explore the analytics collected by the API Platform."
+                "title": "Lab 400: Adding Additional Policies",
+                "description": "In this Lab we are add additional policies."
+            },
+            {
+                "number": "500",
+                "filename": "ics500.md",
+                "title": "Lab 500: API Analytics",
+                "description": "In this Lab we are going to explore the analytics collected by the API Platform."
             }
         ]
     }
